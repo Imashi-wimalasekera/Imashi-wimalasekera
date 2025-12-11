@@ -15,7 +15,7 @@
   &nbsp;&nbsp;
   <a href="https://github.com/Imashi-wimalasekera" title="GitHub">
     <span style="display:inline-block;background:#FF6C37;border-radius:10px;padding:6px;border:1px solid rgba(255,255,255,0.15);">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="24" style="background:#ffffff;border-radius:6px;padding:2px;display:block;" />
+      <img src="https://camo.githubusercontent.com/7f0e8a6baecb909b9f947b74e4f89aaa25cf5b2d5273686747ff45d8b83bf8dd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" alt="GitHub" height="24" style="background:#ffffff;border-radius:6px;padding:2px;display:block;" />
     </span>
   </a>
 </p>
@@ -83,7 +83,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
   <span style="display:inline-block;background:#FF6C37;border-radius:12px;padding:6px;border:1px solid rgba(255,255,255,0.15);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" alt="GitHub" style="background:#ffffff;border-radius:8px;padding:4px;display:block;" />
+    <img src="https://camo.githubusercontent.com/7f0e8a6baecb909b9f947b74e4f89aaa25cf5b2d5273686747ff45d8b83bf8dd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" height="24" alt="GitHub" style="background:#ffffff;border-radius:8px;padding:4px;display:block;" />
   </span>
   
   
