@@ -30,8 +30,6 @@
 -  Currently learning more about backend development, APIs, and advanced UI design
 -  Love combining creativity with functionality to build user-friendly applications
 -  Interested in Web Development, Mobile Development, and Smart System Design
-
----
 ---
 
 ## 🧭 At a Glance
