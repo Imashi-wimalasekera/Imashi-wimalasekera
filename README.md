@@ -14,7 +14,9 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Imashi-wimalasekera" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="28" style="background-color: white; border-radius: 6px; padding: 2px;" />
+    <span style="display:inline-block;background:#FF6C37;border-radius:10px;padding:6px;border:1px solid rgba(255,255,255,0.15);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="24" style="background:#ffffff;border-radius:6px;padding:2px;display:block;" />
+    </span>
   </a>
 </p>
 
@@ -80,7 +82,9 @@
 **Cloud & Tools**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" style="background-color: white; border-radius: 6px; padding: 4px; border: 1px solid #e6e6e6;" />
+  <span style="display:inline-block;background:#FF6C37;border-radius:12px;padding:6px;border:1px solid rgba(255,255,255,0.15);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" alt="GitHub" style="background:#ffffff;border-radius:8px;padding:4px;display:block;" />
+  </span>
   
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32" alt="Jira" />
