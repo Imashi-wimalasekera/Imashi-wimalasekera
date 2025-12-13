@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Imashi Wimalasekera👋</h1>
+<h1 align="center">Hey, I'm Imashi Wimalasekera👋</h1>
 <p align="center">
   <b>IT Undergraduate | Full-Stack Developer | Tech Explorer</b>
 </p>
@@ -98,4 +98,4 @@
 
 ---
 
-<p align="center"><i>✨ *Thanks for visiting my profile! Feel free to connect or collaborate.* </i></p>
+<p align="center"><i>✨ Thanks for visiting my profile! Feel free to connect or collaborate. </i></p>
