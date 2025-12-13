@@ -1,7 +1,6 @@
-<h1 align="center">Imashi Wimalasekera</h1>
+<h1 align="center">Hey, Imashi Wimalasekera👋</h1>
 <p align="center">
-  <b>IT Undergraduate @ University of Moratuwa</b><br/>
-  <span style="font-size: 1.05rem; line-height: 1.6;">Full-Stack & Mobile Developer crafting reliable, human-friendly products.</span>
+  <b>IT Undergraduate | Full-Stack Developer | Tech Explorer</b>
 </p>
 
 <p align="center">
@@ -21,11 +20,10 @@
 </p>
 
 ---
-
 ## ✨ About Me
 
 -  Information Technology Undergraduate at University of Moratuwa
--  Focused on Full-Stack Development with Flutter, React, Spring Boot, and MySQL
+-  Focused on Full-Stack Development with React, Spring Boot, MERN and MySQL
 -  Experienced Mobile App Developer, especially in Flutter and React Native
 -  Currently learning more about backend development, APIs, and advanced UI design
 -  Love combining creativity with functionality to build user-friendly applications
@@ -37,7 +35,6 @@
 - Designs end-to-end experiences: from UI flows to production APIs and databases.
 - Balances speed and robustness with clear testing and observability habits.
 - Enjoys building for real users—automation, smart systems, and cloud-backed apps.
-
 ---
 
 ## 🧰 Toolbox
@@ -101,4 +98,4 @@
 
 ---
 
-<p align="center"><i>✨ *Thanks for visiting! I’m always open to collaboration and internship opportunities.* </i></p>
+<p align="center"><i>✨ *Thanks for visiting my profile! Feel free to connect or collaborate.* </i></p>
